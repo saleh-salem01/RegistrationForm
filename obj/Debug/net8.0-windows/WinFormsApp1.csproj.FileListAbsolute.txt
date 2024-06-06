@@ -15,3 +15,4 @@ C:\Users\ALEX TOP\Documents\MEGA Downloads\ITI BI Track\03.C#\C# Lectures\New fo
 C:\Users\ALEX TOP\Documents\MEGA Downloads\ITI BI Track\03.C#\C# Lectures\New folder\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\ALEX TOP\Documents\MEGA Downloads\ITI BI Track\03.C#\C# Lectures\New folder\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
 C:\Users\ALEX TOP\Documents\MEGA Downloads\ITI BI Track\03.C#\C# Lectures\New folder\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\ALEX TOP\Documents\MEGA Downloads\ITI BI Track\03.C#\C# Lectures\New folder\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
